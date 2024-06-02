@@ -1,3 +1,7 @@
+<!-- <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> -->
+
+
+
 - 👋 Hi, I’m Tasnim
 - 👀 I’m interested in programing languages 
 - 🌱 I’m already learning about " HTML,CSS,JS,React & Next framework".
