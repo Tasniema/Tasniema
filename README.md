@@ -22,7 +22,7 @@
  <img align="right"  width="250px" height="250px" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1608216254364.png"> 
 
  ## Coding is fun 🤩💝 
-### :handshake: Always happy to help! 
+<!--### :handshake: Always happy to help!--> 
 
 
 
