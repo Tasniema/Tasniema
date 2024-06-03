@@ -19,7 +19,7 @@
 <!--<img align="left" height="280" width="400" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif"> -->
 
 
- <img align="right" padding-top="160px" width="250px" height="250px" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1608216254364.png"> 
+ <img align="right"  width="250px" height="250px" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1608216254364.png" padding-top="60px"> 
 
  ## Coding is fun 🤩💝 
 ### :handshake: Always happy to help! 
