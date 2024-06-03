@@ -12,7 +12,7 @@
  <img src="https://raw.githubusercontent.com/BhuvaneshHingal/BhuvaneshHingal/master/icon/Olaf.gif" width="150px" height="150px"> 
 <!--[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Tasniema) -->
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reem-lab)](https://github.com/Reem-lab) 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reem-lab)](https://github.com/Reem-lab) -->
 
 
 
