@@ -18,12 +18,9 @@
 
 <!--<img align="left" height="280" width="400" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif"> -->
 
+<!--![Tasneem Salim Hasan](https://github.com/Tasniema/Tasniema/assets/142103116/506b210f-1a88-414b-9e48-b680ca8734c8)-->
 
-
-
-![Tasneem Salim Hasan](https://github.com/Tasniema/Tasniema/assets/142103116/506b210f-1a88-414b-9e48-b680ca8734c8)
-
-
+![Tasneem Salim Hasan (1)](https://github.com/Tasniema/Tasniema/assets/142103116/809f4b2f-3c94-4ca5-97db-2bfdbcb28e4f)
 
 
 
