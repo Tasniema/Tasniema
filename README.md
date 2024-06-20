@@ -40,8 +40,7 @@
 - 📫 you can reach me via Email : (tasneemjanina@gmail.com)
 - 😄 Pronouns: her/she
 - ❔ Ask me anything I would like to help 💯
-- ⚡ Fun fact:
-- ☕ I can't start my day without a cup of coffee 'That help me to focus more during working'.
+- ⚡ Fun fact: ☕ I can't start my day without a cup of coffee 'That help me to focus more during working'.
 
 
 <!---
