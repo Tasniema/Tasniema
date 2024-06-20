@@ -20,10 +20,8 @@
 
 
 
+![Uploading Tasneem Salim Hasan.gif…]()
 
-
-
-https://github.com/Tasniema/Tasniema/assets/142103116/c840c584-8892-4c27-b68d-aa742dcc1a9f
 
 
 
