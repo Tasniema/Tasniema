@@ -49,3 +49,8 @@
 Tasniema/Tasniema is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+[![My Skills](https://skillicons.dev/icons?i=react,redux,electron,next,vue,nuxt,vite,svelte,javascript,typescript,html,css,scss,bootstrap,tailwindcss,jest,webpack,python,markdown,figma,vscode,github,netlify,vercel,heroku,bash)](https://skillicons.dev)
+
+<br>
