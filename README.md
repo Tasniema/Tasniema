@@ -36,7 +36,6 @@
 
 
 - 👀 I’m interested in programing languages 
-- 🌱 I’m already learning about " HTML,CSS,JS,React & Next framework".
 - 🔸 In love with OpenSource : Linux 🐧 & Problem Solving 💡
 - 📫 you can reach me via Email : (tasneemjanina@gmail.com)
 - 😄 Pronouns: her/she
@@ -51,6 +50,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-[![My Skills](https://skillicons.dev/icons?i=react,next,vue,javascript,typescript,html,css,scss,bootstrap,tailwindcss,jest,webpack,markdown,figma,vscode,github,netlify,vercel,heroku,bash)](https://skillicons.dev)
+[![My Skills]
+(https://skillicons.dev/icons?i=react,next,vue,javascript,typescript,html,css,scss,bootstrap,tailwindcss,jest,webpack,markdown,figma,vscode,github,netlify,vercel,heroku,bash)](https://skillicons.dev)
 
 <br>
