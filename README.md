@@ -35,7 +35,6 @@
 
 
 
-- 👋 Hi, I’m Tasnim
 - 👀 I’m interested in programing languages 
 - 🌱 I’m already learning about " HTML,CSS,JS,React & Next framework".
 - 🔸 In love with OpenSource : Linux 🐧 & Problem Solving 💡
